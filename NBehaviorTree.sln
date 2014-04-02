@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NBehaviorTree", "NBehaviorTree\NBehaviorTree.csproj", "{61BF22C3-4D26-4A72-8E6F-027F0202FE21}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NBehaviorTreeSandbox", "NBehaviorTreeSandbox\NBehaviorTreeSandbox.csproj", "{EBC4A0F9-0E31-4D57-B5A5-E5182B6885BC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NBehaviorTreeTest", "NBehaviorTreeTest\NBehaviorTreeTest.csproj", "{C509B099-6116-4304-96AD-11B5DA692C58}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{61BF22C3-4D26-4A72-8E6F-027F0202FE21}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{61BF22C3-4D26-4A72-8E6F-027F0202FE21}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{61BF22C3-4D26-4A72-8E6F-027F0202FE21}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{61BF22C3-4D26-4A72-8E6F-027F0202FE21}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EBC4A0F9-0E31-4D57-B5A5-E5182B6885BC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EBC4A0F9-0E31-4D57-B5A5-E5182B6885BC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EBC4A0F9-0E31-4D57-B5A5-E5182B6885BC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EBC4A0F9-0E31-4D57-B5A5-E5182B6885BC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C509B099-6116-4304-96AD-11B5DA692C58}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C509B099-6116-4304-96AD-11B5DA692C58}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C509B099-6116-4304-96AD-11B5DA692C58}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C509B099-6116-4304-96AD-11B5DA692C58}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
